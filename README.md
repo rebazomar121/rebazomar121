@@ -7,7 +7,7 @@
 - 🥰 Other languages I like but i don't use for now ["Rust","Go"]
 - 🐳 I like docker and i use it to manage my project
 -  Mac is My Life (Apple is the best) ... (also i like other laptops with ubuntu linux)
-- 💰 I want money with money also woth other money
+- 💰 I want money with money also with other money
 
 <!---
 rebazomar121/rebazomar121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
