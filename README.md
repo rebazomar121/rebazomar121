@@ -1,5 +1,32 @@
-# 💫 About Me:
-👋 Hello! I’m @rebazomar121, a passionate MERN stack and React Native developer with a growing expertise in DevOps.<br>👀 Currently immersed in various projects, focusing on enhancing both development efficiency and deployment processes.<br>👨‍💼 My go-to languages are TypeScript and bashScript, which I use extensively in my work.<br>👎 Not particularly fond of PHP, Flutter, or Java.<br>❤️ I have a deep appreciation for TypeScript due to its clean syntax and type safety.<br>🥰 I'm curious about Go, although I haven't had the opportunity to work with it much yet.<br>🐳 Docker is a key tool in my workflow, helping me manage projects with ease and precision.<br>🔧 Proficient in setting up CI/CD pipelines, cloud infrastructure (AWS), and automating deployment workflows.<br> A dedicated Mac user (Apple enthusiast), but also enjoy using Ubuntu Linux on other devices.<br>💰 Actively seeking financial growth with a focus on strategic opportunities to increase wealth.<br>📫 Check out my portfolio at https://www.rebaz.dev.
+# 💫 About Me
+
+👋 Hi! I'm **@rebazomar121**, a passionate **MERN stack** and **React Native** developer who's also diving deeper into **DevOps**.
+
+🚀 I love building clean, fast, and efficient apps — from development to deployment.
+
+💻 My favorite languages are **TypeScript** and **Bash**, which I use in most of my projects.
+
+🙅‍♂️ Not a big fan of **PHP**, **Flutter**, or **Java** (just not my vibe 😅).
+
+❤️ I really enjoy working with **TypeScript** because of its clean syntax and strong type safety.
+
+🧐 I'm also interested in learning **Go** — it looks super cool, and I can't wait to explore it more.
+
+🐳 **Docker** is one of my must-have tools; it helps me manage and run projects smoothly.
+
+🔧 Skilled in setting up **CI/CD pipelines**, managing **AWS cloud infrastructure**, and automating deployments.
+
+🍏 A proud **Mac user** (yep, total Apple fan 😎), but I also enjoy using **Ubuntu Linux**.
+
+💰 Always looking for smart ways to grow financially and invest in future opportunities.
+
+🌐 Check out my portfolio: [**rebaz.dev**](https://www.rebaz.dev)
+
+---
+
+## 📫 How to reach me
+- Portfolio: [rebaz.dev](https://www.rebaz.dev)
+- GitHub: [@rebazomar121](https://github.com/rebazomar121)
 
 
 ## 🌐 Socials:
