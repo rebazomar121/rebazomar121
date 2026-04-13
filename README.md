@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Rebaz%20Omar&fontColor=58A6FF&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descColor=8B949E&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=7%2B+years+building+production+systems;150%2B+clients+on+multi-tenant+infrastructure;From+database+design+to+CI%2FCD+pipelines;TypeScript+%7C+React+%7C+Node.js+%7C+Docker+%7C+AWS)](https://rebaz.dev)
 
 <br/>
@@ -11,7 +9,6 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12807475)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebazomar121@gmail.com)
 
-<br/>
 
 </div>
 
@@ -89,91 +86,6 @@ const rebaz: Developer = {
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E4405F?style=for-the-badge&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🚀 &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 [Bruska ERP](https://bruska.io)
-> Enterprise Resource Planning — **150+ clients**, each with isolated MongoDB databases, dedicated subdomains, PM2 instances, and nginx configs.
-
-`React` `Next.js` `Node.js` `MongoDB` `Docker` `Nginx` `PM2`
-
-</td>
-<td width="50%">
-
-### 🚗 [KurdCars](https://kurdcars.com)
-> Automotive marketplace serving Kurdistan & Iraq. Published on Google Play with real-time listings and location-based search.
-
-`React Native` `Expo` `Node.js` `MongoDB` `AWS S3`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛵 Delivery Platform *(In Development)*
-> Full-stack delivery platform with customer, driver & shop roles in a single React Native app, plus web admin panel.
-
-`Turborepo` `NestJS` `Fastify` `PostgreSQL` `Prisma` `Expo` `Socket.IO` `BullMQ`
-
-</td>
-<td width="50%">
-
-### 💱 Zangin *(In Development)*
-> Multi-tenant currency exchange & money transfer management for Kurdistan Region dollar markets.
-
-`React` `Fastify` `tRPC` `Better Auth` `MongoDB` `Turborepo`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎧 [Bruska Support](https://bruska-support.bruska.io)
-> Dedicated client support app for Bruska customers — streamlined ticket management and real-time communication.
-
-`React Native` `Expo` `Node.js` `MongoDB`
-
-</td>
-<td width="50%">
-
-### 💰 [Fintra](https://fintra.rebaz.dev)
-> Personal finance tracker for managing income, expenses, and budgets in one clean interface.
-
-`React` `Node.js` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🩻 [RadiusAssist](https://radiographic-measurements.rebaz.dev)
-> Web-based radiographic measurement tool for distal radius fractures — client-side AI processes X-rays with zero uploads.
-
-`React` `TensorFlow.js` `Client-side ML`
-
-</td>
-<td width="50%">
-
-### 💅 MoonShine
-> E-commerce platform for a Kurdish cosmetics brand — served **500K+ customers** across Kurdistan Region.
-
-`React` `Node.js` `MongoDB` `AWS`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> **[📂 View All Projects →](https://rebaz.dev/projects)**
 
 </div>
 
