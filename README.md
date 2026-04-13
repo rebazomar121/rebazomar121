@@ -1,37 +1,240 @@
-# 💫 About Me
+<div align="center">
 
-👋 Hi! I'm **@rebazomar121**, a passionate **MERN stack** and **React Native** developer who's also diving deeper into **DevOps**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Rebaz%20Omar&fontColor=58A6FF&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descColor=8B949E&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-🚀 I love building clean, fast, and efficient apps — from development to deployment.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=7%2B+years+building+production+systems;150%2B+clients+on+multi-tenant+infrastructure;From+database+design+to+CI%2FCD+pipelines;TypeScript+%7C+React+%7C+Node.js+%7C+Docker+%7C+AWS)](https://rebaz.dev)
 
-💻 My favorite languages are **TypeScript** and **Bash**, which I use in most of my projects.
+<br/>
 
-🙅‍♂️ Not a big fan of **PHP**, **Flutter**, or **Java** (just not my vibe 😅).
+[![Portfolio](https://img.shields.io/badge/rebaz.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rebaz.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rebaz-omar-4579a419a)&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12807475)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rebazomar121@gmail.com)
 
-❤️ I really enjoy working with **TypeScript** because of its clean syntax and strong type safety.
+<br/>
 
-🧐 I'm also interested in learning **Go** — it looks super cool, and I can't wait to explore it more.
+</div>
 
-🐳 **Docker** is one of my must-have tools; it helps me manage and run projects smoothly.
+<br/>
 
-🔧 Skilled in setting up **CI/CD pipelines**, managing **AWS cloud infrastructure**, and automating deployments.
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
-🍏 A proud **Mac user** (yep, total Apple fan 😎), but I also enjoy using **Ubuntu Linux**.
+```typescript
+const rebaz: Developer = {
+  location: "Sulaymaniyah, Kurdistan Region, Iraq",
+  role: "Lead Full Stack Developer & DevOps Engineer",
+  company: "Bruska Company",
+  experience: "7+ years",
+  education: "BSc Computer Science — University of Sulaimani",
+  
+  currentlyBuilding: [
+    "Multi-tenant ERP serving 150+ clients",
+    "Delivery platform (Turborepo + NestJS + React Native)",
+    "Currency exchange management system",
+  ],
+  
+  passions: ["Clean Architecture", "DevOps Automation", "System Design"],
+  languages: ["TypeScript", "JavaScript", "Bash", "SQL"],
+  
+  funFact: "I mass-manage 150+ nginx configs, PM2 instances, and MongoDB databases daily"
+};
+```
 
-💰 Always looking for smart ways to grow financially and invest in future opportunities.
+<br/>
 
-🌐 Check out my portfolio: [**rebaz.dev**](https://www.rebaz.dev)
+## 🛠️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
+### Tools & Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E4405F?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 [Bruska ERP](https://bruska.io)
+> Enterprise Resource Planning — **150+ clients**, each with isolated MongoDB databases, dedicated subdomains, PM2 instances, and nginx configs.
+
+`React` `Next.js` `Node.js` `MongoDB` `Docker` `Nginx` `PM2`
+
+</td>
+<td width="50%">
+
+### 🚗 [KurdCars](https://kurdcars.com)
+> Automotive marketplace serving Kurdistan & Iraq. Published on Google Play with real-time listings and location-based search.
+
+`React Native` `Expo` `Node.js` `MongoDB` `AWS S3`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛵 Delivery Platform *(In Development)*
+> Full-stack delivery platform with customer, driver & shop roles in a single React Native app, plus web admin panel.
+
+`Turborepo` `NestJS` `Fastify` `PostgreSQL` `Prisma` `Expo` `Socket.IO` `BullMQ`
+
+</td>
+<td width="50%">
+
+### 💱 Zangin *(In Development)*
+> Multi-tenant currency exchange & money transfer management for Kurdistan Region dollar markets.
+
+`React` `Fastify` `tRPC` `Better Auth` `MongoDB` `Turborepo`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎧 [Bruska Support](https://bruska-support.bruska.io)
+> Dedicated client support app for Bruska customers — streamlined ticket management and real-time communication.
+
+`React Native` `Expo` `Node.js` `MongoDB`
+
+</td>
+<td width="50%">
+
+### 💰 [Fintra](https://fintra.rebaz.dev)
+> Personal finance tracker for managing income, expenses, and budgets in one clean interface.
+
+`React` `Node.js` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🩻 [RadiusAssist](https://radiographic-measurements.rebaz.dev)
+> Web-based radiographic measurement tool for distal radius fractures — client-side AI processes X-rays with zero uploads.
+
+`React` `TensorFlow.js` `Client-side ML`
+
+</td>
+<td width="50%">
+
+### 💅 MoonShine
+> E-commerce platform for a Kurdish cosmetics brand — served **500K+ customers** across Kurdistan Region.
+
+`React` `Node.js` `MongoDB` `AWS`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> **[📂 View All Projects →](https://rebaz.dev/projects)**
+
+</div>
+
+<br/>
+
+## 🏗️ &nbsp;What I Do Daily
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🏛️  Architect multi-tenant systems with isolated infra        │
+│   ⚡  Build APIs with NestJS, Fastify, GraphQL                  │
+│   📱  Ship React Native apps to App Store & Google Play         │
+│   🐳  Containerize and orchestrate with Docker & K8s            │
+│   🔧  Manage 150+ nginx configs, PM2 instances, MongoDB DBs    │
+│   🚀  Automate CI/CD with GitHub Actions                        │
+│   🔒  Harden infrastructure — WireGuard, X.509, Cloudflare     │
+│   📊  Monitor with PostHog, Sentry, and custom dashboards       │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rebazomar121&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&ring_color=58A6FF" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebazomar121&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rebazomar121&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rebazomar121&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rebazomar121&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
 
 ---
 
-## 📫 How to reach me
-- Portfolio: [rebaz.dev](https://www.rebaz.dev)
-- GitHub: [@rebazomar121](https://github.com/rebazomar121)
+<div align="center">
 
+### 💬 Let's Connect
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rebaz-omar-4579a419a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12807475) 
+I'm always open to collaborating on interesting projects, discussing system architecture, or talking DevOps.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐_rebaz.dev-000?style=for-the-badge)](https://rebaz.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rebaz-omar-4579a419a)
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
