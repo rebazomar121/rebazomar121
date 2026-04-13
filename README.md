@@ -1,16 +1,3 @@
-<!-- 
-  ⚠️  SETUP REQUIRED — Deploy these 3 repos to your own Vercel (free) for reliable images:
-  
-  1. Stats + Top Langs: https://github.com/anuraghazra/github-readme-stats → Deploy to Vercel → Add PAT_1 env var
-  2. Trophies: https://github.com/ryo-ma/github-profile-trophy → Deploy to Vercel → Add GITHUB_TOKEN env var  
-  3. Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph → Deploy to Vercel → Add GITHUB_TOKEN env var
-  
-  Then replace these placeholders below:
-    YOUR_STATS_VERCEL_URL       → e.g. github-readme-stats-rebaz.vercel.app
-    YOUR_TROPHY_VERCEL_URL      → e.g. github-profile-trophy-rebaz.vercel.app
-    YOUR_ACTIVITY_VERCEL_URL    → e.g. github-activity-graph-rebaz.vercel.app
--->
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=7%2B+years+building+production+systems;150%2B+clients+on+multi-tenant+infrastructure;From+database+design+to+CI%2FCD+pipelines;TypeScript+%7C+React+%7C+Node.js+%7C+Docker+%7C+AWS)](https://rebaz.dev)
@@ -126,24 +113,7 @@ const rebaz: Developer = {
 
 <div align="center">
 
-<!-- Replace YOUR_STATS_VERCEL_URL with your deployed instance -->
-<img src="https://YOUR_STATS_VERCEL_URL/api?username=rebazomar121&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&ring_color=58A6FF" height="180" />
-&nbsp;&nbsp;
-<img src="https://YOUR_STATS_VERCEL_URL/api/top-langs/?username=rebazomar121&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebazomar121&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" />
-
-<br/><br/>
-
-<!-- Replace YOUR_TROPHY_VERCEL_URL with your deployed instance -->
-<img src="https://YOUR_TROPHY_VERCEL_URL/?username=rebazomar121&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-<br/><br/>
-
-<!-- Replace YOUR_ACTIVITY_VERCEL_URL with your deployed instance -->
-<img src="https://YOUR_ACTIVITY_VERCEL_URL/graph?username=rebazomar121&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" width="100%" />
 
 </div>
 
